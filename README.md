@@ -8,7 +8,7 @@ This project presents an **Exploratory Data Analysis (EDA)** of historical crop 
 
 ![Yield Analysis](Yield%20Analysis.png)
 ![Production Analysis](Production%20Analysis.png)
-![Area Harvested].(Area%20Harvested%20Analysis.png)
+![Area Harvested](Area%20Harvested%20Analysis.png)
 ---
 
 ## Research Objective & Business Question
