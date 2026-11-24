@@ -1,11 +1,14 @@
 # Agricultural-Production-Yield-Annalysis
-# 🌾 Nigeria Agricultural Production & Yield Analysis (2015–2024)
+# Nigeria Agricultural Production & Yield Analysis (2015–2024)
 
-## 📌 Project Overview
+## Project Overview
 This project presents an **Exploratory Data Analysis (EDA)** of historical crop production patterns in Nigeria using **FAOSTAT (QCL Domain)** data from **2015 to 2024**. The analysis evaluates five major crops—**Cassava (fresh), Yams, Maize (corn), Rice, and Cocoa beans**—to uncover growth trends, land efficiency, and investment opportunities.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
+![Yield Analysis](Yield%20Analysis.png)
+![Production Analysis](Production%20Analysis.png)
+![Area Harvested].(Area%20Harvested%20Analysis.png)
 ---
 
 ## Research Objective & Business Question
